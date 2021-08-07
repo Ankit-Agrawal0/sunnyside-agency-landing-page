@@ -97,7 +97,7 @@ header{
     background-image: url('images/desktop/image-header.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    height: 95vh;
+    height: 90vh;
     overflow-x: hidden;
     overflow-y: visible;
     position: relative;
@@ -136,7 +136,7 @@ section div .child{
     height: 60%;
     min-height: 300px;
 }
-section div .child h3{
+section div .child h2{
     font-size: 4rem;
     font-weight: 900;
     letter-spacing: -0.29px;
@@ -179,7 +179,7 @@ section .left, section .right{
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 50vw;
-    height: 75vh;
+    height: 70vh;
     position: relative;
 }
 section .right{
@@ -409,7 +409,7 @@ footer > div.icon{
         text-align: center; 
         margin: auto;
     }
-    section div .child h3{
+    section div .child h2{
         font-size: 5rem;
         text-align: center;
         margin: auto;
