@@ -97,7 +97,7 @@ header{
     background-image: url('images/desktop/image-header.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    height: 105vh;
+    height: 95vh;
     overflow-x: hidden;
     overflow-y: visible;
     position: relative;
@@ -136,7 +136,7 @@ section div .child{
     height: 60%;
     min-height: 300px;
 }
-section div .child h1{
+section div .child h3{
     font-size: 4rem;
     font-weight: 900;
     letter-spacing: -0.29px;
@@ -179,7 +179,7 @@ section .left, section .right{
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 50vw;
-    height: 80vh;
+    height: 75vh;
     position: relative;
 }
 section .right{
@@ -200,7 +200,7 @@ section .left div p, section .right div p{
     letter-spacing: -0.11px;
     color: hsl(167, 40%, 24%);
 }
-section .left div h1, section .right div h1{
+section .left div h2, section .right div h2{
     color: hsl(167, 40%, 24%);
     font-family: 'Fraunces', serif;
     font-weight: 900;
@@ -209,7 +209,7 @@ section .left div h1, section .right div h1{
     letter-spacing: -0.2px;
     margin-bottom: 30px;
 }
-section .right div h1{
+section .right div h2{
     color: hsl(198, 62%, 26%);
 }
 section .right div p{
@@ -409,8 +409,8 @@ footer > div.icon{
         text-align: center; 
         margin: auto;
     }
-    section div .child h1{
-        font-size: xx-large;
+    section div .child h3{
+        font-size: 5rem;
         text-align: center;
         margin: auto;
     }
